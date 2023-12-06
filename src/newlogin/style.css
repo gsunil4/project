@@ -1,0 +1,26 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+
+.body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+.btn{
+    background: linear-gradient(94deg, rgba(251,208,74,1) 0%, rgba(246,106,118,0.9864320728291317) 71%);
+    cursor: pointer;
+}
+.conta{
+  
+    display: flex;
+    justify-content: space-between;
+  }
+  .color-ash {
+    color: #808080; /* Hex code for a medium gray color */
+  }
+  .password-toogle-icon{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 265px;
+    cursor: pointer;
+  }

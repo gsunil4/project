@@ -1,0 +1,33 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+
+.ttr{transform: translate(-50%, -50%);
+
+}
+
+
+.btn-color{
+  text-color: white;
+  
+  background: linear-gradient(94deg, rgba(251,208,74,1) 0%, rgba(246,106,118,0.9864320728291317) 71%);}
+.logo-mt{
+  display: flex;
+  justify-content: center;
+}
+.logo-mt{
+  width: 80px;
+  height: 80px;
+}
+.tt{
+  text-decoration: underline
+}
+.password-toogle-icon{
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  z-index: 1000;
+  cursor: pointer;
+}
+.conta{
+  display: flex;
+  justify-content: space-evenly;
+}
